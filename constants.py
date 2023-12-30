@@ -1,1 +1,1 @@
-openai_key="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"
+openai_key="Your-OpenAI-Key"
